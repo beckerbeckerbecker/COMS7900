@@ -17,7 +17,7 @@ Major issues with the code.
 
 Code is doesn't work
 
-Runs were done to explore parameter space.
+## Runs were done to explore parameter space.
 The project fully explores parameter space.  Connections are made between both simulation method.
 
 There are numerous runs of both codes, but there aren't enough to fully understand the space.
