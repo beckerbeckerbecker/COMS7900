@@ -1,5 +1,5 @@
 # CapstoneCapstoneCapstone
-Enchanted Kingdoms Projet
+Enchanted Kingdoms Project
 
 This is the original assignment and the rubric.
 
