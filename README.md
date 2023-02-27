@@ -4,6 +4,7 @@ Enchanted Kingdoms Project
 This is the original assignment and the rubric.
 
 The next step is ...
+... perform nonstandard analysis.
 
 # Surreal numbers in Python
 
