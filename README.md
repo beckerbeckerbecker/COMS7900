@@ -16,11 +16,11 @@ surreals from their string shorthands.
 
 	from surreal import Surreal as S, shorthand
 	
-'''    python
+' ' '    python
 # The zero surreal number
 s = Surreal(set(), set())
 s = shorthand('0')
-'''
+' ' '
 This readme is still a work-in-progress.
 
 
