@@ -17,3 +17,24 @@ A simulation and storytelling project exploring dynamic systems through narrativ
 1. Clone the repository:
    ```bash
    git clone git@github.com:beckerbeckerbecker/COMS7900.git
+
+   ## Planned Additions
+The following sections will be added to the repository as the project progresses:
+
+1. **Three Body Problem Simulation**:
+   - A Jupyter notebook (`three_body_problem.ipynb`) to simulate and analyze the Three Body Problem.
+
+2. **Children's Book Extension**:
+   - A narrative markdown file (`childrens_book.md`) to explore storybook-inspired elements.
+
+3. **Tintin-Inspired Narrative**:
+   - A markdown file (`tintin_extension.md`) integrating narrative themes inspired by Tintin.
+
+These components will be integrated into their respective directories when ready.
+
+## Repository Structure
+- **code/ODE/**: Python scripts for ODE simulations (e.g., Three Body Problem).
+- **code/notebooks/**: Jupyter notebooks for interactive analysis.
+- **storybook/**: Drafts for Children's Book and Tintin-inspired content.
+- **docs/**: Notes and supporting documents.
+- **visuals/**: Graphs and animations from simulations.
