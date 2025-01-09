@@ -1,32 +1,19 @@
-# CapstoneCapstoneCapstone
-Enchanted Kingdoms Project
+# Enchanted Kingdoms
 
-This is the original assignment and the rubric.
+A simulation and storytelling project exploring dynamic systems through narrative-driven educational tools.
 
-The next step is ...
-... perform nonstandard analysis.
+## Repository Structure
+- **code/notebooks/**: Jupyter notebooks for simulation and analysis.
+- **docs/**: Project documentation, including assignments and rubrics.
+- **storybook/**: Placeholder for narrative elements (currently empty).
+- **visuals/**: Organized folders for graphs and animations (currently empty).
+- **archive/**: Contains older or unused materials for reference.
 
-# Surreal numbers in Python
+## Current Contents
+- Jupyter Notebooks: Simulation notebooks located in `code/notebooks/` (e.g., `EK2.ipynb`).
+- Documentation: Includes `assignment.md` and `rubric.md` in `docs/`.
 
-Surreal numbers are a fascinating branch of pure mathematics.  A surreal number can 
-be written as {L|R} where both L and R are sets of Surreal numbers.  A surreal number is
-well formed if every member of L is less-than or equal to every member of R.
-
-This module provides a Surreal number object as well as a helper function for creating
-surreals from their string shorthands.
-
-	from surreal import Surreal as S, shorthand
-	
-' ' '    python
-# The zero surreal number
-s = Surreal(set(), set())
-s = shorthand('0')
-' ' '
-This readme is still a work-in-progress.
-
-
-Surreal Construction:
-
-https://github.com/codeinthehole/python-surreal
-
-https://samclane.dev/surreal-numbers-in-python-3/
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:beckerbeckerbecker/COMS7900.git
