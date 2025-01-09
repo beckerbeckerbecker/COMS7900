@@ -32,3 +32,9 @@ The following sections will be added to the repository as the project progresses
 
 These components will be integrated into their respective directories when ready.
 
+## Repository Structure
+- **code/ODE/**: Python scripts for ODE simulations (e.g., Three Body Problem).
+- **code/notebooks/**: Jupyter notebooks for interactive analysis.
+- **storybook/**: Drafts for Children's Book and Tintin-inspired content.
+- **docs/**: Notes and supporting documents.
+- **visuals/**: Graphs and animations from simulations.
